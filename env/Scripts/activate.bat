@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Roberto\Documents\classroom\2025\pos-ia-preparacao\creating_modules_libs_in_pypi\env
+set VIRTUAL_ENV=C:\Users\Roberto\Documents\classroom\2025\pos-ia-preparacao\my_investments\env
 
 if not defined PROMPT set PROMPT=$P$G
 

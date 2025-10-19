@@ -8,7 +8,7 @@ setup(
    author='Roberto Barbosa Costa',
    author_email='rbt.desenvolvimentos@gmail.com',
    description='Uma biblioteca para cálculos de investimentos criada no curso IA para devs da FIAP em 2025.',
-   url='https://https://github.com/RobertoCosta33/my_investments',
+   url='https://github.com/RobertoCosta33/my_investments',
    classifiers=[
        'Programming Language :: Python :: 3',
        'License :: OSI Approved :: MIT License',
